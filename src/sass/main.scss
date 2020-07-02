@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/utilities";
+
+@import "components/alert";
+@import "components/auth";
+@import "components/listingform";
+@import "components/card";
+@import "components/navbar";
+@import "components/notfound";
+@import "components/pagination";
+
+@import "layout/grid";
+
+@import "pages/about";
+@import "pages/contact";
+@import "pages/home";
+@import "pages/listingdetails";
+@import "pages/listings";
